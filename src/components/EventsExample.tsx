@@ -64,6 +64,7 @@ const EventsExample: FC = () => {
           height: 200,
           background: isDrag ? "blue" : "red",
           marginTop: 15,
+          marginBottom: 15,
         }}
       ></div>
     </div>
