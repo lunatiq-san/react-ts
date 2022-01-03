@@ -17,6 +17,6 @@ const coords: Coords = [50.4501, 30.5234];
 type ReqStatus = "request" | "success" | "error";
 const requestStatus: ReqStatus = "error";
 
-console.log(userId, postId, coords);
+console.log(userId, postId, coords, requestStatus);
 
 export {};

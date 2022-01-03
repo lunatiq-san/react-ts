@@ -25,4 +25,6 @@ const rgb: [number, number, number] = [255, 0, 255];
 const arrA = [1, 2, 3, 4, 5];
 const arrB = [...arrA];
 
+console.log(temps, someTemps, coords, rgb, arrB);
+
 export {};

@@ -23,4 +23,5 @@ let id: string | number | boolean = 5;
 id = "text";
 id = true;
 
+console.log(age, name, value, user, id);
 export {};
